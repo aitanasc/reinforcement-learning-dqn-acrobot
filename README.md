@@ -1,5 +1,3 @@
-# reinforcement-learning-dqn-acrobot
-
 # Reinforcement Learning with DQN (Acrobot)
 
 ## Goal
